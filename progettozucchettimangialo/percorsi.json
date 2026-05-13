@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "GIORNATA TRADIZIONALE",
+        "descrizione": "La giornata perfetta per chi vuole vivere come un vero lodigiano!",
+        "colazione": "Pasticc. Masseroni",
+        "svago": " Gita Naturalistica  Adda Sud",
+        "pranzo": "Gaffurio",
+        "cena": "La coldana"
+    },
+    {
+        "nome": "GIORNATA TIPICA",
+        "descrizione": "Sei in cerca di una semplice giornata nostrana? Prova questa giornata in pieno stile italiano!",
+        "colazione": "Caffè nazionale",
+        "svago": "Visita delle Chiese e Musei  Del Territorio",
+        "pranzo": "Pizzeria Vera, Napoli in Pizza",
+        "cena": "Osteria del Capanno"
+    },
+    {
+        "nome": "GIORNATA VEGANA",
+        "descrizione": "La giornata sostenibile ed adatta a chiunque voglia gustare dei prodotti vegani.",
+        "colazione": "La bontà",
+        "svago": "Passeggiata in centro, Piazza della Vittoria, Corso Roma(via principale piena di negozi) ",
+        "pranzo": "La Coldana",
+        "cena": "Green Corner Ristorante Vineria"
+    },
+    {
+        "nome": "GIORNATA ORIENTALE",
+        "descrizione": "La giornata ideale per gli appassionati della cucina estera proveniente dall'estremo oriente!",
+        "colazione": "",
+        "svago": "",
+        "pranzo": "Mod Sushi",
+        "cena": "Koora"
+    },
+    {
+        "nome": "GIORNATA FAST-FOOD",
+        "descrizione": "La giornata ideale per gli amanti del fast-food, dalle piadine al kebab e agli hamburger!",
+        "colazione": "McDonald",
+        "svago": "Visione di un film al cinema, Cinema Fanfulla/Cinema Moderno",
+        "pranzo": "Piadineria La delizia",
+        "cena": "Kairos"
+    }
+    
+]

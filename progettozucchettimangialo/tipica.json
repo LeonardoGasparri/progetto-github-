@@ -1,0 +1,57 @@
+[
+    {
+"nome":"Caffè Nazionale",
+"indirizzo":"Piazza della Vittoria, 44",
+"tipo":"Tipica",
+"sezione":"Colazione/Pranzo/Cena",
+"orario":"Martedì-Domenica 08:00-00:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"cucina tipica, pizza, colazione",
+"telefono":"037167952",
+"descrizione":"Bar con ristorante tipico e pizzeria",
+"altitudine":"45.3141117",
+"longitudine":"9.50196919484866"
+},
+{
+"nome":"Pizzeria Vera",
+"indirizzo":"Via Marsala, 68",
+"tipo":"Tipico",
+"sezione":"Cena",
+"orario":"11:00-15:00; 18:00-23:30",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"pizza",
+"telefono":"3514855250",
+"descrizione":"Pizzeria",
+"altitudine":"45.3107808",
+"longitudine":"9.5045025"
+},
+{
+"nome":"Visita chiesa dell'Incoronata",
+"indirizzo":"Via Marsala, 68",
+"tipo":"Tipico",
+"sezione":"Svago",
+"orario":"9:30-12:30; 15:30-18:00",
+"foto locale":"",
+"telefono":"0371 409442",
+"descrizione":"Visita turistica all'Incoronata",
+"altitudine":"45.314864176384184",
+"longitudine":"9.502087682874373"
+},
+{
+"nome":"Osteria del capanno",
+"indirizzo":"Via Castelfidardo, 17",
+"tipo":"Tradizionale",
+"sezione":"Pranzo/Cena",
+"orario":"Martedì-Venerdì: 12:00-14:30; Sabato-Domenica: 12:30-14:30",
+"foto locale":"//",
+"foto prodotti":"./imm/",
+"prodottiTipici":"raspadüra, trippa alla lodigiana, ganassino di maiale",
+"telefono":"0371840221",
+"descrizione":"Ristorante classico lodigiano",
+"altitudine":"45.31111504220437",
+"longitudine":"9.501995225611363"
+}
+
+]

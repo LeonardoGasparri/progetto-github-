@@ -1,0 +1,57 @@
+[
+    {
+"nome":"Bar Pasticceria Tabaccheria Masseroni",
+"indirizzo":"Corso Roma, 84",
+"tipo":"Tradizionale",
+"sezione":"Colazione/Pranzo",
+"orario":"Lunedì 07:00-15:00; Martedì-Sabato 07:00-20:30; Domenica 08:00-20:30",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"brioche e cappuccino",
+"telefono":"03711920077",
+"descrizione":"Bar classico",
+"altitudine":"45.3122132",
+"longitudine":"9.504307541292697"
+},
+{
+"nome":"Gaffurio",
+"indirizzo":"Via Gaffurio, 11",
+"tipo":"Tradizionale",
+"sezione":"Pranzo/Cena",
+"orario":"Lunedì-Domenica: 12:00-14:00; 19:00-22:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"raspadüra, pannerone, salumi lodigiani",
+"telefono":"0371426967",
+"descrizione":"Ristorante classico lodigiano",
+"altitudine":"45.3133084",
+"longitudine":"9.5041359"
+},
+{
+"nome":"Parco adda sud",
+"indirizzo":"Viale Dalmazia,10",
+"tipo":"tradizionale",
+"sezione":"Svago",
+"orario":"sempre aperto",
+"fotoLocale":"",
+"descrizione":"Parco situato nei pressi del centro di lodi",
+"altitudine":"45.31435864914504",
+"longitudine":"9.49829365403879"
+},
+{
+"nome":"Trattoria la Coldana",
+"indirizzo":"Via del Costino",
+"tipo":"Vegano",
+"sezione":"Cena",
+"orario":"Giovedì-Lunedì: 12:30-14:30; 19:30-22:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"piatti italiani",
+"telefono":"0371431742",
+"descrizione":"Ristorante tipico",
+"altitudine":"45.3040039",
+"longitudine":"9.517536092905681"
+}
+
+
+]

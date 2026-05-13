@@ -1,0 +1,44 @@
+[
+    {
+"nome":"Mod Sushi Restaurant",
+"indirizzo":"Viale Dalmazia, 12",
+"tipo":"Asiatico",
+"sezione":"Pranzo",
+"orario":"Martedì-Giovedì: 12:00-15:00; 19:00-23:30 Venerdì-Domenica: 12:00-15:00; 18:30-23:30",
+"fotoLocale":"immagini tappe/mod.webp",
+"foto prodotti":"",
+"prodottiTipici":"bao dessert, ostriche, sushi",
+"telefono":"351 032 3210",
+"descrizione":"Ristorante di sushi all you can eat",
+"altitudine":"45.31799344589998",
+"longitudine":"9.498666383207365"
+},
+{
+"nome":"Cinema Fanfulla",
+"indirizzo":"Viale Pavia, 4",
+"tipo":"Asiatico",
+"sezione":"Svago",
+"orario":"sempre aperto",
+"fotoLocale":"",
+"foto prodotti":"",
+"prodottiTipici":"Film",
+"telefono":"0371 30740",
+"descrizione":"Cinema situato nei pressi della Stazione ferroviaria di Lodi",
+"altitudine":"45.30848538040383",
+"longitudine":"9.497308896699243"
+},
+{
+"nome":"Ristorante Koora Sushi",
+"indirizzo":"Viale Piacenza, 40",
+"tipo":"Asiatico",
+"sezione":"Cena",
+"orario":"Martedì-Domenica: 12:00-15:00; 19:00-23:30",
+"fotoLocale":"immagini tappe/koora1.webp",
+"foto prodotti":"",
+"prodottiTipici":"sushi, griglia mista",
+"telefono":"371 432 381",
+"descrizione":"Ristorante di sushi all you can eat",
+"altitudine":"45.300052543898445",
+"longitudine":"9.513981839027087"
+}   
+]

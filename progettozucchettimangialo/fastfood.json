@@ -1,0 +1,56 @@
+[
+    {
+"nome":"McDonald",
+"indirizzo":"Nuova Tangenziale Est",
+"tipo":"Fast Food",
+"sezione":"Colazione/Pranzo/Cena",
+"orario":"Domenica-Giovedì: 7:00-1:00; Venerdì-Sabato: 7:00-5:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodotti tipici":"donuts, brioche",
+"telefono":"0371438115",
+"descrizione":"Catena di fast food",
+"altitudine":"45.3010198",
+"longitudine":"9.5227459"
+},
+{
+"nome":"Piadineria La Delizia",
+"indirizzo":"Piazzale Fiume, 10",
+"tipo":"Fast Food",
+"sezione":"Pranzo/Cena",
+"orario":"",
+"foto locale":"",
+"foto prodotti":"",
+"prodotti tipici":"piadine di ogni genere",
+"telefono":"0371942252",
+"descrizione":"Piadineria",
+"altitudine":"45.3115595",
+"longitudine":"9.4976027"
+},
+{
+"nome":"Cinema Moderno",
+"indirizzo":"Corso Adda, 87",
+"sezione":"Svago",
+"orario":"",
+"fotoLocale":"",
+"prodottiTipici":"Film",
+"telefono":"0371675953",
+"descrizione":"Cinema situato vicino al ponte dell'Adda",
+"altitudine":"45.320029259768035",
+"longitudine":"9.507659464471661"
+},
+{
+"nome":"Kairos",
+"indirizzo":"Viale Dalmazia, 7",
+"tipo":"Fast Food",
+"sezione":"Pranzo/Cena",
+"orario":"Martedì-Domenica 11:00-15:00; 18:00-23:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodotti tipici":"kebab, pizza",
+"telefono":"3516353063",
+"descrizione":"Locale che fa principalmente kebab e pizza",
+"altitudine":"45.3128629",
+"longitudine":"9.497470452520265"
+}
+]

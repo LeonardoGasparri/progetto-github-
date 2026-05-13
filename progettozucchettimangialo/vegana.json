@@ -1,0 +1,53 @@
+[
+    {
+"nome":"La bontà",
+"indirizzo":"Corso Adda, 56",
+"tipo":"Vegano",
+"sezione":"Colazione",
+"orario":"Martedì, Domenica: 8:30-12:30; 16:00-19:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"brioche vegana, macarons vegani",
+"telefono":"0371564752",
+"descrizione":"Bar vegano",
+"altitudine":"45.31629",
+"longitudine":"9.506762267863852"
+},
+{
+"nome":"Trattoria la Coldana",
+"indirizzo":"Via del Costino",
+"tipo":"Vegano",
+"sezione":"Cena",
+"orario":"Giovedì-Lunedì: 12:30-14:30; 19:30-22:00",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"piatti italiani",
+"telefono":"0371431742",
+"descrizione":"Ristorante tipico",
+"altitudine":"45.3040039",
+"longitudine":"9.517536092905681"
+},
+{
+"nome":"Piazza Della Vittoria",
+"indirizzo":"Piazza della Vittoria",
+"sezione":"Svago",
+"foto locale":"",
+"descrizione":"Ristorante tipico",
+"altitudine":"45.31418995248288",
+"longitudine":"9.502681867532122"
+},
+{
+"nome":"Green Corner Ristorante Vineria",
+"indirizzo":"Via Borgo Adda, 1",
+"tipo":"Vegano",
+"sezione":"Cena",
+"orario":"Giovedì-Sabato 19-22; Domenica 12:30-14",
+"foto locale":"",
+"foto prodotti":"",
+"prodottiTipici":"gnocchi con catalogna, ricotta e pistacchi",
+"telefono":"3703161099",
+"descrizione":"Ristorante vegano",
+"altitudine":"45.3168",
+"longitudine":"9.5085"
+}
+]
